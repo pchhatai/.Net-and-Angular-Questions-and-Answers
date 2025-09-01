@@ -1,5 +1,6 @@
 # .Net-and-Angular-Questions-and-Answers
 1. Observable vs Promise, when to use which one ?
+   
 Promises and Observables are both mechanisms for handling asynchronous operations in JavaScript, but they differ significantly in their capabilities and use cases.
 Promises:
 Single Value:
